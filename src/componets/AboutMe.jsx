@@ -96,7 +96,7 @@ function AboutMe() {
           </div>
         </div>
         <div className="about-actions">
-          <a href="/Portafolio/CVHectorFernandezRico.pdf" download="CVHectorFernandezRico.pdf" className="btn btn-cv">
+          <a href="/portafolio/CVHectorFernandezRico.pdf" download="CVHectorFernandezRico.pdf" className="btn btn-cv">
             Descargar CV
           </a>
         </div>
